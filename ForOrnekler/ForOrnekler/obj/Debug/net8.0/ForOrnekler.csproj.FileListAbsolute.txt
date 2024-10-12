@@ -1,0 +1,14 @@
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/bin/Debug/net8.0/ForOrnekler
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/bin/Debug/net8.0/ForOrnekler.deps.json
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/bin/Debug/net8.0/ForOrnekler.runtimeconfig.json
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/bin/Debug/net8.0/ForOrnekler.dll
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/bin/Debug/net8.0/ForOrnekler.pdb
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/obj/Debug/net8.0/ForOrnekler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/obj/Debug/net8.0/ForOrnekler.AssemblyInfoInputs.cache
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/obj/Debug/net8.0/ForOrnekler.AssemblyInfo.cs
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/obj/Debug/net8.0/ForOrnekler.csproj.CoreCompileInputs.cache
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/obj/Debug/net8.0/ForOrnekler.dll
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/obj/Debug/net8.0/refint/ForOrnekler.dll
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/obj/Debug/net8.0/ForOrnekler.pdb
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/obj/Debug/net8.0/ForOrnekler.genruntimeconfig.cache
+/Users/elifgul/RiderProjects/ForOrnekler/ForOrnekler/obj/Debug/net8.0/ref/ForOrnekler.dll
