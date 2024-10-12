@@ -1,0 +1,14 @@
+/Users/elifgul/RiderProjects/Tatil/Tatil/obj/Debug/net8.0/Tatil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifgul/RiderProjects/Tatil/Tatil/obj/Debug/net8.0/Tatil.AssemblyInfoInputs.cache
+/Users/elifgul/RiderProjects/Tatil/Tatil/obj/Debug/net8.0/Tatil.AssemblyInfo.cs
+/Users/elifgul/RiderProjects/Tatil/Tatil/obj/Debug/net8.0/Tatil.csproj.CoreCompileInputs.cache
+/Users/elifgul/RiderProjects/Tatil/Tatil/bin/Debug/net8.0/Tatil
+/Users/elifgul/RiderProjects/Tatil/Tatil/bin/Debug/net8.0/Tatil.deps.json
+/Users/elifgul/RiderProjects/Tatil/Tatil/bin/Debug/net8.0/Tatil.runtimeconfig.json
+/Users/elifgul/RiderProjects/Tatil/Tatil/bin/Debug/net8.0/Tatil.dll
+/Users/elifgul/RiderProjects/Tatil/Tatil/bin/Debug/net8.0/Tatil.pdb
+/Users/elifgul/RiderProjects/Tatil/Tatil/obj/Debug/net8.0/Tatil.dll
+/Users/elifgul/RiderProjects/Tatil/Tatil/obj/Debug/net8.0/refint/Tatil.dll
+/Users/elifgul/RiderProjects/Tatil/Tatil/obj/Debug/net8.0/Tatil.pdb
+/Users/elifgul/RiderProjects/Tatil/Tatil/obj/Debug/net8.0/Tatil.genruntimeconfig.cache
+/Users/elifgul/RiderProjects/Tatil/Tatil/obj/Debug/net8.0/ref/Tatil.dll
