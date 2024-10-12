@@ -1,0 +1,14 @@
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/bin/Debug/net8.0/WhileOrnekler
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/bin/Debug/net8.0/WhileOrnekler.deps.json
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/bin/Debug/net8.0/WhileOrnekler.runtimeconfig.json
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/bin/Debug/net8.0/WhileOrnekler.dll
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/bin/Debug/net8.0/WhileOrnekler.pdb
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/obj/Debug/net8.0/WhileOrnekler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/obj/Debug/net8.0/WhileOrnekler.AssemblyInfoInputs.cache
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/obj/Debug/net8.0/WhileOrnekler.AssemblyInfo.cs
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/obj/Debug/net8.0/WhileOrnekler.csproj.CoreCompileInputs.cache
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/obj/Debug/net8.0/WhileOrnekler.dll
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/obj/Debug/net8.0/refint/WhileOrnekler.dll
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/obj/Debug/net8.0/WhileOrnekler.pdb
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/obj/Debug/net8.0/WhileOrnekler.genruntimeconfig.cache
+/Users/elifgul/RiderProjects/WhileOrnekler/WhileOrnekler/obj/Debug/net8.0/ref/WhileOrnekler.dll
