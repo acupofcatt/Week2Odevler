@@ -1,0 +1,14 @@
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/bin/Debug/net8.0/MetotlarOdev
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/bin/Debug/net8.0/MetotlarOdev.deps.json
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/bin/Debug/net8.0/MetotlarOdev.runtimeconfig.json
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/bin/Debug/net8.0/MetotlarOdev.dll
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/bin/Debug/net8.0/MetotlarOdev.pdb
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/obj/Debug/net8.0/MetotlarOdev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/obj/Debug/net8.0/MetotlarOdev.AssemblyInfoInputs.cache
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/obj/Debug/net8.0/MetotlarOdev.AssemblyInfo.cs
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/obj/Debug/net8.0/MetotlarOdev.csproj.CoreCompileInputs.cache
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/obj/Debug/net8.0/MetotlarOdev.dll
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/obj/Debug/net8.0/refint/MetotlarOdev.dll
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/obj/Debug/net8.0/MetotlarOdev.pdb
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/obj/Debug/net8.0/MetotlarOdev.genruntimeconfig.cache
+/Users/elifgul/RiderProjects/MetotlarOdev/MetotlarOdev/obj/Debug/net8.0/ref/MetotlarOdev.dll
