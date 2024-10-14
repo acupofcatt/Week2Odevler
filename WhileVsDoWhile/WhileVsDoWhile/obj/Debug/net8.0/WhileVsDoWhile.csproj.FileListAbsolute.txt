@@ -1,0 +1,14 @@
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/bin/Debug/net8.0/WhileVsDoWhile
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/bin/Debug/net8.0/WhileVsDoWhile.deps.json
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/bin/Debug/net8.0/WhileVsDoWhile.runtimeconfig.json
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/bin/Debug/net8.0/WhileVsDoWhile.dll
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/bin/Debug/net8.0/WhileVsDoWhile.pdb
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/obj/Debug/net8.0/WhileVsDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/obj/Debug/net8.0/WhileVsDoWhile.AssemblyInfoInputs.cache
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/obj/Debug/net8.0/WhileVsDoWhile.AssemblyInfo.cs
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/obj/Debug/net8.0/WhileVsDoWhile.csproj.CoreCompileInputs.cache
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/obj/Debug/net8.0/WhileVsDoWhile.dll
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/obj/Debug/net8.0/refint/WhileVsDoWhile.dll
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/obj/Debug/net8.0/WhileVsDoWhile.pdb
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/obj/Debug/net8.0/WhileVsDoWhile.genruntimeconfig.cache
+/Users/elifgul/RiderProjects/WhileVsDoWhile/WhileVsDoWhile/obj/Debug/net8.0/ref/WhileVsDoWhile.dll
